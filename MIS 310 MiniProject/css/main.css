@@ -1,0 +1,12 @@
+#intro-dragon .fire {
+    color: red;
+}
+
+#intro-dragon .gold {
+    color: gold;
+}
+#red-dragon {
+    max-width: 50%;
+    max-height: 80%;
+    border: 2px solid blue;
+}
